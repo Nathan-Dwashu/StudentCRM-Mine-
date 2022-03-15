@@ -1,0 +1,33 @@
+C:\WorkSpace\2021\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.exe
+C:\WorkSpace\2021\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.deps.json
+C:\WorkSpace\2021\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.runtimeconfig.json
+C:\WorkSpace\2021\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.runtimeconfig.dev.json
+C:\WorkSpace\2021\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.dll
+C:\WorkSpace\2021\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.pdb
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.csproj.AssemblyReference.cache
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.Form1.resources
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.csproj.GenerateResource.cache
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.AssemblyInfoInputs.cache
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.AssemblyInfo.cs
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.csproj.CoreCompileInputs.cache
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.dll
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.pdb
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.genruntimeconfig.cache
+C:\WorkSpace\2021\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.Properties.Resources.resources
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.exe
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.deps.json
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.runtimeconfig.json
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.runtimeconfig.dev.json
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.dll
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\bin\Debug\netcoreapp3.1\StudentCRM.pdb
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.csproj.AssemblyReference.cache
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.Form1.resources
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.Properties.Resources.resources
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.csproj.GenerateResource.cache
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.AssemblyInfoInputs.cache
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.AssemblyInfo.cs
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.dll
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.pdb
+C:\WorkSpace\Serious Projects\Software\StudentCRM\StudentCRM\obj\Debug\netcoreapp3.1\StudentCRM.genruntimeconfig.cache
